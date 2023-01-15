@@ -17,7 +17,7 @@
     "url": "https://github.com/javaa49DimaEpikhin/ts-projects/issues"
   },
   "homepage": "https://github.com/javaa49DimaEpikhin/ts-projects#readme",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^4.9.4"
   }
 }
